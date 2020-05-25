@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Rom name**
+**Rom name+Build date**
 Please submit your rom name with proper build date & type.
 
 **Describe the bug**
