@@ -1,4 +1,5 @@
 ---
+device: "
 name: Bug report
 about: Create a report to help us improve
 title: ''
@@ -31,15 +32,11 @@ Post a link to a logcat or kernel logs.
 
 **Recovery**
 
-> [*] TWRP [_] OrangeFox [_] Other
+> [*] TWRP [_] Skyhawk Recovery Project (SHRP)
 
 **Gapps**
 
 > [_] No [*] Yes
-
-**Fingerprint**
-
-> [_] Goodix [*] FPC
 
 **Used filesystems**
 
@@ -49,7 +46,7 @@ Post a link to a logcat or kernel logs.
 >
 > [No] Dirty flash
 >
-> [No] Xposed
+> [No] EdXposed
 >
 > [No] Custom kernel
 >
