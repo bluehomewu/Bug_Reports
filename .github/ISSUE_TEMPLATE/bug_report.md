@@ -1,6 +1,6 @@
 ---
-device: "
 name: Bug report
+device: ''
 about: Create a report to help us improve
 title: ''
 labels: ''
